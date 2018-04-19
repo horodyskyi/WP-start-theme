@@ -1,0 +1,5 @@
+v.1.0.0   
+
+
+bootstap-grid.min.css    included in functions.php
+fontawesome v4.7.0	 included in header.php
